@@ -1,0 +1,67 @@
+
+h1{
+   
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: gold;
+    text-align: center;
+    border: 2px solid greenyellow;
+    font-style: inherit;
+}
+.address{
+    
+    color: green;
+    border: 2px solid Gold;
+}
+*{
+    background-color:  lightgoldenrodyellow;
+    font-family: 'PT Sans', sans-serif;
+    
+}
+.address>p>span{
+    font-weight: 900;
+}
+/*.logo{
+    border: 10px solid grey;
+    box-sizing: border-box;
+    /*padding: 10px;
+    margin: 10px;}*/
+
+.body{
+    width: 100px;
+    height: 100px;
+    background-image: url(https://www.istockphoto.com/photo/sunrise-over-a-corn-field-background-gm1219353504-356641455);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Products{
+    color: blue;
+    display: inline;
+}
+.Videos{
+    color: blue;
+    display: inline;
+}
+.About{
+    color: blue;
+    display: inline;
+}
+.youtube link{
+    
+}
+.focus{
+    vertical-align: baseline;
+}
+.cure{
+    vertical-align: baseline;
+}
+.sparkel{
+    vertical-align: baseline;
+}
+.supreem{
+    vertical-align: baseline;
+}
+.vs{
+    vertical-align: baseline;
+}
